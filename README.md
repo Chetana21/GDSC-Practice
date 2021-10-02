@@ -1,2 +1,1 @@
 # GDSC-Practice
-gdsc
